@@ -1,0 +1,18 @@
+t ab289bd5f3b8ccbfa2f17c156a6d9c0fe2adf233
+Author: Samer Taiba <samer.taiba@std.balamand.edu.lb>
+Date:   Thu Oct 19 13:24:18 2017 +0300
+
+    added alias examples
+
+commit 18a20050d024c0ee31d7c28c07d42e90dce53d1f
+Author: Samer Taiba <samer.taiba@std.balamand.edu.lb>
+Date:   Thu Oct 19 13:20:36 2017 +0300
+
+    added my ssh key
+
+commit b7fe6d5d15fbdf4e860644c1dbabc2a3ef91ce8f
+Author: Samer Taiba <samer.taiba@std.balamand.edu.lb>
+Date:   Thu Oct 19 13:15:51 2017 +0300
+
+    added a new folder
+
