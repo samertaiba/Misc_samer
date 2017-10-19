@@ -1,0 +1,2 @@
+70x   !value of an input parameter that you're changing in the simulatio
+70   !value of an input parameter times 10
